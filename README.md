@@ -1,8 +1,16 @@
-<h1 align= "center">   Welcome, I'm Marcelo Silva! </h1>
+<h1 align= "center">   Welcome, I'm Marcelo Silva! <h1 align= "center"> iOS Software Developer | Swift | Mobile 
 
-## iOS Software Developer | Swift | Mobile 
- 
- <div>
+ 💠 OOP 
+ 💠 GitHub 
+ 💠 UIKIt 
+ 💠 Storyboards and Xib's 
+ 💠 ViewCode 
+ 💠 Arquitectura MVC, MVVM 
+ 💠 Auto Layout
+ 💠 Frameworks
+
+
+<div>
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelossv&show_icons=true&theme=onedark"/>
 
@@ -27,5 +35,5 @@
  <div>
  
   
-### Repositorios Destaques
+### 👨🏻‍💻 Featured Repositories
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
