@@ -7,7 +7,7 @@
  💠 ViewCode 
  💠 Arquitectura MVC, MVVM 
  💠 Auto Layout
- 💠 Frameworks
+ 💠 CocoaPods
 
 
 <div>
