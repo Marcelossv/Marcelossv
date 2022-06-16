@@ -4,17 +4,17 @@
  
  <div>
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelossv&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelossv&show_icons=true&theme=onedark"/>
 
  </div>
    
 
-### Let's get connected 
+### 📲 Let's get connected:
  
  [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelossv/)
 
  
- ### 🛠Technologies and Tools:
+### 🛠 Technologies and Tools:
  
  <div>
  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
