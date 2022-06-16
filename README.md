@@ -4,7 +4,7 @@
  
  <div>
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelossv&show_icons=true&theme=onedark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelossv&show_icons=true&theme=radical"/>
 
  </div>
    
@@ -17,8 +17,8 @@
  ### 🛠Technologies and Tools:
  
  <div>
- <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
   <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
