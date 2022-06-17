@@ -32,8 +32,9 @@
  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img align= "centeer" alt="Marcelo-html" height= "60" widht= "60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
  <div>
  
   
 ### 👨🏻‍💻 Featured Repositories
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoga-zone&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
