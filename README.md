@@ -1,13 +1,16 @@
 <h1 align= "center">    Welcome, I'm Marcelo Silva! <h1 align= "center"> iOS Software Developer | Swift | Mobile 
 
  🔹 OOP 
- 🔹 GitHub 
+ 🔹 ViewCode 
+ 🔹 Git Version Control
  🔹 UIKIt 
  🔹 Storyboards and Xib's 
- 🔹 ViewCode 
  🔹 Arquitectura MVC, MVVM 
  🔹 Auto Layout
  🔹 CocoaPods
+ 🔹API Rest
+ 
+ 
 
 
 <div>
